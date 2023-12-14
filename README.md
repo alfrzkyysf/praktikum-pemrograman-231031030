@@ -4,3 +4,4 @@
 <div>Prodi: Sistem Informasi</div>
 
 * Praltikum 1: Pengenalan Variabel 'praktikum-a1.py'
+* Praltikum 2: Pengenalan Variabel 'praktikum-a2.py'
